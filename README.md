@@ -14,3 +14,5 @@ development an Android APP to implement human activity recognition on smartphone
 显示结果格式：
 
 [当前时间]Gesture is detected:识别动作
+
+![Image text](https://github.com/zhangzhao156/HAR-on-Smartphone/blob/master/%E8%8D%A3%E8%80%809%E6%85%A2%E8%B7%91.jpg)
